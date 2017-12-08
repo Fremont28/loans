@@ -11,3 +11,5 @@ AdaBoost has been widely adopted in fields including biology, finance, and speec
 
 Lending Club is a peer to peer lending service offering loans from $1000 to $40000. Each loan is graded on a A-G scale hinging on factors such as the user’s credit history and income. The majority of users use Lending Club for debt consolidation or paying off credit card bills.  
 
+Read here for more detail: https://beyondtheaverage.wordpress.com/2017/12/08/how-good-is-your-loan/
+
